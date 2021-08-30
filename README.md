@@ -1,2 +1,2 @@
-# security-plus-cert-notes
+# Security+ Certification Notes
 Notes for Security+ Certification
